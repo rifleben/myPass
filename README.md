@@ -11,7 +11,7 @@ The app requests users to enter their account name, username, and password. If t
 
 The program also has validation to ensure that a user is happy with the details entered and that there are no blank fields.
 
-The program will then save to a text file the user details formatted in a readable way. A .txt file will be created storing the password info if the text file does not exist on the user's machine. 
+The program will then save to a text file the user details formatted in a readable way. A data.txt file will be created storing the password info if the text file does not exist on the user's machine (see repo for example). 
 
 ### Tools Used:
 - Python Packages:
