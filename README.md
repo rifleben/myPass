@@ -2,7 +2,7 @@
 
 Password generator and vault to keep track of your passwords. Built with Python.
 
-![](https://github.com/rifleben/myPass/blob/main/myPass.gif)
+![](https://github.com/rifleben/myPass_gif/blob/main/myPass.gif)
 
 
 ## Summary:
