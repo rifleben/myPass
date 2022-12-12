@@ -17,7 +17,7 @@ The program will then save, to a json file, the user details formatted in a read
 - Python Packages:
   - tkinter (GUI interface)
   - random
-  - pypoerclip
+  - pyperclip
   - JSON
 - IDE:
   - PyCharm
